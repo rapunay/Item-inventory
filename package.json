@@ -1,0 +1,23 @@
+{
+  "name": "item-inventory",
+  "version": "1.0.0",
+  "description": "simple app for tracking items",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "service",
+    "angularjs"
+  ],
+  "author": "rapunay",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "4.2.1"
+  }
+}
